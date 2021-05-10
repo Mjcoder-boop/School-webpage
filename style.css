@@ -1,0 +1,13 @@
+#Map {
+    background-image: linear-gradient(yellow, orange, red);
+    height: 500px;
+}
+
+#map {
+    height: 400px;
+}
+#start {
+   background-color: aquamarine;
+   border-style: dashed ; 
+    border-color: chocolate;
+}
